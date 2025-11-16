@@ -1,0 +1,11 @@
+Sub_Mod_3
+│
+├── data
+│   └── StudentsPrepared.xlsx
+│
+├── app.py
+├── train_model_sub.py
+├── modelo_evasao.pkl
+├── requirements.txt
+├── README.md
+
